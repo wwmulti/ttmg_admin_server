@@ -1,0 +1,11 @@
+.vscode
+/routers/commentsRouter.go
+.idea
+uk_admin_server.*
+
+swagger/
+logs/
+logs/*
+swagger.zip
+public/
+conf/app.conf
